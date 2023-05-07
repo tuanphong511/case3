@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>title</title>
+    <link rel="stylesheet" href="">
+</head>
+
+<body style="background: url('https://media4.giphy.com/media/l0NwxrxGSKzj4crCw/giphy.gif?cid=ecf05e47jukigzisa9iq9fwy6gnt6zw06eulso6wmfzyq598&ep=v1_gifs_search&rid=giphy.gif&ct=g');">
+   <center>
+    
+    <table border="10px"  style = "background-color: blanchedalmond; border-color: azure;">
+       <tr>
+        <th>
+            
+                <img src="pApt.png" alt="" style="width: 400px; height: 300px;">
+            
+            
+         </th>
+       </tr>
+        
+       
+    </table>
+    
+   </center>
+    
+    <div style="display: grid; grid-template-columns:repeat(3, 1fr);line-height: 20px; ;">
+        <table border="10px" style="color: black; background-color: bisque;">
+        <tr>
+            <th>
+                <img src="z4323364160739_749ade8d3f4ed58393a22d768c5870b9.jpg" alt="" style="width: 400px;height: 500px;">
+            </th>
+            <th>
+                
+                <h2>Thông tin về áo</h2>
+                <h3>Áo LIFEWORK</h3>
+                <p>-Áo làm bằng vải cotton 100%</p>
+                <p>-Áo có size S M L XL</p>
+                <p>-Áo được sản xuất tại Việt Nam</p>
+                <h4>Giá 250.000 VNĐ</h4>
+                 <a href="https://www.facebook.com/profile.php?id=100088057010025">
+                    <button style="width: 100px; height: 50px; background-color: blanchedalmond;">Buy now</button>
+                 </a>
+            </th>
+        </tr>
+    </table>
+    <table border="10px" style="color: black; background-color: bisque;" >
+        <tr>
+            <th>
+                <img src="z4319042942186_1e577905e0697fac3c08e60e2743510f.jpg" alt="" style="width: 400px;height: 500px;">
+            </th>
+            <th>
+                
+                <h2>Thông tin về áo</h2>
+                <h3>Áo LIFEWORK</h3>
+                <p>-Áo làm bằng vải cotton 100%</p>
+                <p>-Áo có size S M L XL</p>
+                <p>-Áo được sản xuất tại Việt Nam</p>
+                <h4>Giá 250.000 VNĐ</h4>
+                 <a href="https://www.facebook.com/profile.php?id=100088057010025">
+                    <button style="width: 100px; height: 50px; background-color: blanchedalmond;">Buy now</button>
+                 </a>
+            </th>
+            
+        </tr>
+    </table>
+    </div>
+    
+
+       
+       
+       
+       
+       <img src="z4323362779736_2031d8c25bb995c17401d62b08168384.jpg" alt="" style="width: 400px;height: 500px;">
+       <img src="z4323362760662_a1c803f4d0f1ed1fe7d14bdda8d9f9fc.jpg" alt="" style="width: 400px;height: 500px;">
+    
+    
+
+    
+</body>
+</html>
